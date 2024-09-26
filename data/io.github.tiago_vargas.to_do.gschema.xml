@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="to-do">
+	<schema id="io.github.tiago_vargas.to_do"
+	        path="/io/github/tiago_vargas/to_do/">
+		<key name="window-width" type="i">
+			<default>600</default>
+			<summary>Default window width</summary>
+		</key>
+		<key name="window-height" type="i">
+			<default>300</default>
+			<summary>Default window height</summary>
+		</key>
+		<key name="window-maximized" type="b">
+			<default>false</default>
+			<summary>Default window maximized behaviour</summary>
+		</key>
+	</schema>
+</schemalist>
