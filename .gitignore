@@ -1,0 +1,6 @@
+# Cargo build files
+/target/
+
+# Flatpak build files
+/.flatpak/
+/.flatpak-builder/

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=To-Do
+Exec=to-do
+Icon=io.github.tiago_vargas.to_do
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
